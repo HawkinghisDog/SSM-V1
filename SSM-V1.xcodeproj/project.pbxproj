@@ -16,6 +16,7 @@
 		DF1DD28C2B20FE22007D0ADB /* SSM_V1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1DD28B2B20FE22007D0ADB /* SSM_V1Tests.swift */; };
 		DF1DD2962B20FE22007D0ADB /* SSM_V1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1DD2952B20FE22007D0ADB /* SSM_V1UITests.swift */; };
 		DF1DD2982B20FE22007D0ADB /* SSM_V1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1DD2972B20FE22007D0ADB /* SSM_V1UITestsLaunchTests.swift */; };
+		DF1DD2A92B2105A0007D0ADB /* idk.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1DD2A82B2105A0007D0ADB /* idk.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DF1DD2912B20FE22007D0ADB /* SSM-V1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SSM-V1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF1DD2952B20FE22007D0ADB /* SSM_V1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SSM_V1UITests.swift; sourceTree = "<group>"; };
 		DF1DD2972B20FE22007D0ADB /* SSM_V1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SSM_V1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DF1DD2A82B2105A0007D0ADB /* idk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = idk.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				DF1DD27F2B20FE21007D0ADB /* SSM_V1.entitlements */,
 				DF1DD2782B20FE1D007D0ADB /* SSM_V1.xcdatamodeld */,
 				DF1DD2802B20FE21007D0ADB /* Preview Content */,
+				DF1DD2A82B2105A0007D0ADB /* idk.swift */,
 			);
 			path = "SSM-V1";
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF1DD2A92B2105A0007D0ADB /* idk.swift in Sources */,
 				DF1DD2752B20FE1D007D0ADB /* SSM_V1App.swift in Sources */,
 				DF1DD2772B20FE1D007D0ADB /* Persistence.swift in Sources */,
 				DF1DD27C2B20FE1D007D0ADB /* ContentView.swift in Sources */,
