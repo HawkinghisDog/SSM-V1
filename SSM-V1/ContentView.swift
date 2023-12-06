@@ -41,6 +41,7 @@ struct ContentView: View {
                 }
             }
             Text("Select an item")
+            Text("WTF is going on")
         }
     }
 
