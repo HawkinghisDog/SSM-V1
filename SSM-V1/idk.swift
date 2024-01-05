@@ -12,7 +12,7 @@ struct idk: View {
         VStack{
             Text("iihbdv    owbvp")
                 .padding(200)
-            Text("lololololo")
+            Text("nenene")
         }
     }
 }
