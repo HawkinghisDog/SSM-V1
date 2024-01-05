@@ -10,7 +10,7 @@ import SwiftUI
 struct idk: View {
     var body: some View {
         VStack{
-            Text("Hello World")
+            Text("iihbdv    owbvp")
                 .padding(200)
             Text("lololololo")
         }

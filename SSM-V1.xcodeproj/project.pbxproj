@@ -17,6 +17,8 @@
 		DF1DD2962B20FE22007D0ADB /* SSM_V1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1DD2952B20FE22007D0ADB /* SSM_V1UITests.swift */; };
 		DF1DD2982B20FE22007D0ADB /* SSM_V1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1DD2972B20FE22007D0ADB /* SSM_V1UITestsLaunchTests.swift */; };
 		DF1DD2A92B2105A0007D0ADB /* idk.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1DD2A82B2105A0007D0ADB /* idk.swift */; };
+		DFD10AC82B48214E00977759 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFD10AC72B48214E00977759 /* SwiftUIView.swift */; };
+		DFD10ACA2B4821D000977759 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFD10AC92B4821D000977759 /* Profile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		DF1DD2952B20FE22007D0ADB /* SSM_V1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SSM_V1UITests.swift; sourceTree = "<group>"; };
 		DF1DD2972B20FE22007D0ADB /* SSM_V1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SSM_V1UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		DF1DD2A82B2105A0007D0ADB /* idk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = idk.swift; sourceTree = "<group>"; };
+		DFD10AC72B48214E00977759 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		DFD10AC92B4821D000977759 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 		DF1DD2732B20FE1D007D0ADB /* SSM-V1 */ = {
 			isa = PBXGroup;
 			children = (
+				DFD10AC72B48214E00977759 /* SwiftUIView.swift */,
+				DFD10AC92B4821D000977759 /* Profile.swift */,
 				DF1DD2742B20FE1D007D0ADB /* SSM_V1App.swift */,
 				DF1DD2762B20FE1D007D0ADB /* Persistence.swift */,
 				DF1DD27B2B20FE1D007D0ADB /* ContentView.swift */,
@@ -270,6 +276,8 @@
 			files = (
 				DF1DD2A92B2105A0007D0ADB /* idk.swift in Sources */,
 				DF1DD2752B20FE1D007D0ADB /* SSM_V1App.swift in Sources */,
+				DFD10AC82B48214E00977759 /* SwiftUIView.swift in Sources */,
+				DFD10ACA2B4821D000977759 /* Profile.swift in Sources */,
 				DF1DD2772B20FE1D007D0ADB /* Persistence.swift in Sources */,
 				DF1DD27C2B20FE1D007D0ADB /* ContentView.swift in Sources */,
 				DF1DD27A2B20FE1D007D0ADB /* SSM_V1.xcdatamodeld in Sources */,
