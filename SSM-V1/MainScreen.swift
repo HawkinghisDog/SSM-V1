@@ -9,7 +9,7 @@ import SwiftUI
 
 struct MainScreen: View {
     var body: some View {
-        Text("tach")
+        Text("Mino ist geil auf dich")
             .padding()
     }
 }
