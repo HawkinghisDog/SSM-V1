@@ -10,7 +10,7 @@ import SwiftUI
 struct Profile: View {
     var body: some View {
         VStack(content: {
-            Text("moin moin")
+            Text("oskar ist geil auf cola")
         })
         Text("moin moin")
     }
