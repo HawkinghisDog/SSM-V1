@@ -13,8 +13,9 @@ struct SSM_V1App: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
-                .environment(\.managedObjectContext, persistenceController.container.viewContext)
+            MainScreen()
+            //ContentView()
+                //.environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
 }
